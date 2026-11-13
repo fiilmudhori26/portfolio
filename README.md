@@ -1,5 +1,7 @@
 # Rachmad Akbar's Portfolio Website
 
+![Portfolio Screenshot](./screenshots/home.png)
+
 A modern, premium, responsive personal portfolio website built with Next.js, TypeScript, Tailwind CSS, and Framer Motion.
 
 ## Features
